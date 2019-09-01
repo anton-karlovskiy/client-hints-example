@@ -721,7 +721,7 @@ nav {
 
 .copy-container {
   border-radius: 0.875rem 0;
-  background-image: url("/image/about-bg.png"), linear-gradient(to bottom, #998356 0, #573607 100%);
+  background-image: url("./img/about-bg.png"), linear-gradient(to bottom, #998356 0, #573607 100%);
   background-size: cover;
   background-position: 50% 50%;
   padding: 1.625rem 1.375rem 0.625rem;
@@ -843,11 +843,11 @@ nav {
   margin: -3rem 0 0;
 }
 #carousel .prev {
-  background: url("/image/prev.svg") no-repeat 50% 50%;
+  background: url("./img/prev.svg") no-repeat 50% 50%;
   left: 0.5rem;
 }
 #carousel .next {
-  background: url("/image/next.svg") no-repeat 50% 50%;
+  background: url("./img/next.svg") no-repeat 50% 50%;
   right: 0.5rem;
 }
 

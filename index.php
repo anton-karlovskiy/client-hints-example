@@ -29,7 +29,7 @@ $network_quality = network_quality();
         <h2>About Us</h2>
         <div class="copy-container">
           <picture>
-            <img src="/image/sizes:true/company-photo.jpg" sizes="(min-width: 560px) 251px, 88.43vw" class="company-photo">
+            <img src="./img/sizes:true/company-photo.jpg" sizes="(min-width: 560px) 251px, 88.43vw" class="company-photo">
           </picture>
           <p class="about-copy">
             <b>Sconnie Timber &amp; Pulp, Inc.</b> employs one man, an accredited forester who goes by the name of Steven Seagal, who aims to take <em>you</em> to the blood bank, Senator. We are also proud members of the Great Lakes Timber Professionals Association, the Forest Resource Association and are lifetime members of the Wisconsin Woodland Owners Association. Our staff has over 70 years of combined experience in the logging industry and continues to build a reputation of honesty and integrity in business. We place the highest value on our client’s satisfaction and apply landowner input during all phases of management. As stewards of the land we want your forest to not only continue to provide sustainable financial return but also to provide recreational, aesthetic and wildlife benefits for generation to come.

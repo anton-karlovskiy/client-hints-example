@@ -26,7 +26,7 @@ $network_quality = network_quality();
     <section id="content">
       <p class="intro-copy"><b>We encourage you to call or contact</b> our team of experienced and friendly foresters for more information.</p>
       <aside class="float-right">
-        <img class="side-image" src="/image/dpr:true/contact-img.jpg" alt="All questions are welcome.">
+        <img class="side-image" src="./img/dpr:true/contact-img.jpg" alt="All questions are welcome.">
         <p class="imageCaption">All questions are welcome.</p>
       </aside>
       <p class="intro-copy">
@@ -49,7 +49,7 @@ $network_quality = network_quality();
         <h3 class="contact-cta">Feel free to contact any of Sconnie Timber's People.</h3>
         <ul class="contacts">
           <li class="contact">
-            <img class="photo" src="/image/dpr:true/steve1.jpg" alt="Steven Seagal">
+            <img class="photo" src="./img/dpr:true/steve1.jpg" alt="Steven Seagal">
             <p class="details">
               <b>Steven Seagal</b><br>
               President and Founder<br>
@@ -58,7 +58,7 @@ $network_quality = network_quality();
             </p>
           </li>
           <li class="contact">
-            <img class="photo" src="/image/dpr:true/steve2.jpg" alt="Steven Seagal">
+            <img class="photo" src="./img/dpr:true/steve2.jpg" alt="Steven Seagal">
             <p class="details">
               <b>Steven Seagal</b><br>
               CTO<br>
@@ -67,7 +67,7 @@ $network_quality = network_quality();
             </p>
           </li>
           <li class="contact">
-            <img class="photo" src="/image/dpr:true/steve3.jpg" alt="Steven Seagal">
+            <img class="photo" src="./img/dpr:true/steve3.jpg" alt="Steven Seagal">
             <p class="details">
               <b>Steven Seagal</b><br>
               COO<br>
@@ -76,7 +76,7 @@ $network_quality = network_quality();
             </p>
           </li>
           <li class="contact">
-            <img class="photo" src="/image/dpr:true/steve4.jpg" alt="Steven Seagal">
+            <img class="photo" src="./img/dpr:true/steve4.jpg" alt="Steven Seagal">
             <p class="details">
               <b>Steven Seagal</b><br>
               Controller<br>
@@ -85,7 +85,7 @@ $network_quality = network_quality();
             </p>
           </li>
           <li class="contact">
-            <img class="photo" src="/image/dpr:true/steve5.jpg" alt="Steven Seagal">
+            <img class="photo" src="./img/dpr:true/steve5.jpg" alt="Steven Seagal">
             <p class="details">
               <b>Steven Seagal</b><br>
               Head of Operations<br>
@@ -94,7 +94,7 @@ $network_quality = network_quality();
             </p>
           </li>
           <li class="contact">
-            <img class="photo" src="/image/dpr:true/steve6.jpg" alt="Steven Seagal">
+            <img class="photo" src="./img/dpr:true/steve6.jpg" alt="Steven Seagal">
             <p class="details">
               <b>Steven Seagal</b><br>
               Groundskeeper<br>

@@ -31,14 +31,14 @@ $network_quality = network_quality();
         <section id="carousel">
           <div class="m-scooch m-fluid m-scooch-photos">
             <div class="m-scooch-inner">
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-01.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-02.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-03.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-04.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-05.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-06.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-07.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
-              <div class="m-item m-active"><img src="/image/sizes:true/slider-08.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-01.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-02.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-03.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-04.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-05.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-06.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-07.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
+              <div class="m-item m-active"><img src="./img/sizes:true/slider-08.jpg" sizes="(min-width: 620px) 600px, 94.7916666667vw"></div>
             </div>
           </div>
           <div class="controls">
