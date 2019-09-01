@@ -721,7 +721,7 @@ nav {
 
 .copy-container {
   border-radius: 0.875rem 0;
-  background-image: url("./img/about-bg.png"), linear-gradient(to bottom, #998356 0, #573607 100%);
+  background-image: url("../img/about-bg.png"), linear-gradient(to bottom, #998356 0, #573607 100%);
   background-size: cover;
   background-position: 50% 50%;
   padding: 1.625rem 1.375rem 0.625rem;
